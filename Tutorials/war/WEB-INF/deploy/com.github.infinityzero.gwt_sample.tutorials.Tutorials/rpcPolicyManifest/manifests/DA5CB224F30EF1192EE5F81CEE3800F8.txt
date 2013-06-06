@@ -1,0 +1,2 @@
+serviceClass: com.github.infinityzero.gwt_sample.tutorials.client.TutorialsService
+path: 15A9676BFFDF36B5744E72CAC551A078.gwt.rpc

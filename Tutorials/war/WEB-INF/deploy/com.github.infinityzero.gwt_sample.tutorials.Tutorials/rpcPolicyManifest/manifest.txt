@@ -1,0 +1,2 @@
+# Module com.github.infinityzero.gwt_sample.tutorials.Tutorials
+# RPC service class, partial path of RPC policy file
